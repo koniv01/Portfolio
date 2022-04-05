@@ -1,3 +1,0 @@
-# Tshadivha 
- Portfolio Technical assignment
-
